@@ -1,6 +1,6 @@
-const EventEmitter = require('events')
-const fs = require('fs')
-const path = require('path')
+const EventEmitter = require('events');
+const fs = require('fs');
+const path = require('path');
 
 const emitter = new EventEmitter()
 // faz que o arquivo .txt seja aberto e jogado a msg.
