@@ -1,5 +1,5 @@
-const { stat } = require('fs')
-const os = require('os')
+const { stat } = require('fs');
+const os = require('os');
 
 let i = 1
 
