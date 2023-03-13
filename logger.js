@@ -6,6 +6,6 @@ function log(data) {
       console.error('Não foi possível salvar o arquivo de log');
     }
   });
-}
+} // escrever no arquivo.
 
 module.exports = log;
