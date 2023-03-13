@@ -7,6 +7,6 @@ function json() {
     total: getStats().total,
     usage: getStats().usage,
   };
-}
+} // metodo JSON.
 
 module.exports = json;
