@@ -2,7 +2,7 @@ const getStats = require('./getStats');
 
 if (!global.i) {
   global.i = 1;
-}
+} // global para que o i seja add 1 acada chamada.
 
 function padrao() {
   let stats = getStats();
