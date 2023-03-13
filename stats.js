@@ -6,9 +6,6 @@ const json = require('./json');
 process.env.LOG_MODE = 'padrao';
 // process.env.LOG_MODE = 'json';
 
-
-
-
 function runLoop() {
   let stats = {}; // Inicializa com um objeto vazio
 
