@@ -1,0 +1,12 @@
+const getStats = require('./getStats');
+
+function json() {
+  return {
+    time: getStats().time,
+    free: getStats().free,
+    total: getStats().total,
+    usage: getStats().usage,
+  };
+}
+
+module.exports = json;

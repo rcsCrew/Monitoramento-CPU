@@ -1,17 +1,11 @@
-const EventEmitter = require('events');
 const fs = require('fs');
-const path = require('path');
 
-const emitter = new EventEmitter()
-// faz que o arquivo .txt seja aberto e jogado a msg.
-emitter.on('log', (message) => {
-    fs.appendFile(path.join(__dirname, 'log.txt'), message, err => {
-        if (err) throw err
-    })
-})
-
-function log(message) {
-    emitter.emit('log', message)
+function log(data) {
+  fs.writeFile('log.txt', data, { flag: 'a' }, err => {
+    if (err) {
+      console.error('Não foi possível salvar o arquivo de log');
+    }
+  });
 }
 
-module.exports = log
+module.exports = log;
