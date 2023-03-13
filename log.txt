@@ -1,155 +1,25 @@
-===== PC STATS =====
-free: 658 MB
-total: 8013 MB
-usage: 8%
-timestamp: 13/03/2023 00:38:34
-===== PC STATS =====
-free: 649 MB
-total: 8013 MB
-usage: 8%
-timestamp: 13/03/2023 00:38:37
-===== PC STATS =====
-free: 641 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:38:40
-===== PC STATS =====
-free: 626 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:38:43
-===== PC STATS =====
-free: 623 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:38:46
 ===== PC STATS 1 =====
-free: 581 MB
+free : 458 MB
 total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:39:49
-===== PC STATS 1 =====
-free: 579 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:39:52
-===== PC STATS 1 =====
-free: 573 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:39:55
+usage: 5%
+time : 13/03/2023 02:05:51
 ===== PC STATS 2 =====
-free: 615 MB
+free : 479 MB
 total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:10
-===== PC STATS 2 =====
-free: 617 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:13
-===== PC STATS 2 =====
-free: 615 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:16
-===== PC STATS 1 =====
-free: 619 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:37
-===== PC STATS 2 =====
-free: 624 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:40
+usage: 5%
+time : 13/03/2023 02:05:56
 ===== PC STATS 3 =====
-free: 628 MB
+free : 493 MB
 total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:43
+usage: 6%
+time : 13/03/2023 02:06:01
 ===== PC STATS 4 =====
-free: 613 MB
+free : 489 MB
 total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:46
+usage: 6%
+time : 13/03/2023 02:06:06
 ===== PC STATS 5 =====
-free: 625 MB
+free : 480 MB
 total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:49
-===== PC STATS 6 =====
-free: 632 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:40:52
-===== PC STATS 7 =====
-free: 653 MB
-total: 8013 MB
-usage: 8%
-timestamp: 13/03/2023 00:40:55
-===== PC STATS 8 =====
-free: 646 MB
-total: 8013 MB
-usage: 8%
-timestamp: 13/03/2023 00:40:58
-===== PC STATS 9 =====
-free: 628 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:01
-===== PC STATS 10 =====
-free: 625 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:04
-===== PC STATS 11 =====
-free: 619 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:07
-===== PC STATS 12 =====
-free: 636 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:10
-===== PC STATS 13 =====
-free: 629 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:13
-===== PC STATS 14 =====
-free: 625 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:16
-===== PC STATS 15 =====
-free: 622 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:19
-===== PC STATS 16 =====
-free: 627 MB
-total: 8013 MB
-usage: 7%
-timestamp: 13/03/2023 00:41:22
-===== PC STATS 1 =====
-free : 578 MB
-total: 8013 MB
-usage: 7%
-time : 13/03/2023 00:41:50
-===== PC STATS 2 =====
-free : 542 MB
-total: 8013 MB
-usage: 6%
-time : 13/03/2023 00:41:55
-===== PC STATS 3 =====
-free : 542 MB
-total: 8013 MB
-usage: 6%
-time : 13/03/2023 00:42:00
-===== PC STATS 4 =====
-free : 531 MB
-total: 8013 MB
-usage: 6%
-time : 13/03/2023 00:42:05
+usage: 5%
+time : 13/03/2023 02:06:11
